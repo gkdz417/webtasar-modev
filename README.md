@@ -17,6 +17,6 @@ Bu proje **Web Teknolojileri ve Programlama** dersi ödevi için hazırlanmışt
 
 ## Domain
 - Yayın adresinizi buraya ekleyin:
-- Canlı site: [(https://tasarimdev321.netlify.app/)](https://123webodev123.netlify.app/)
+- Canlı site:(https://123webodev123.netlify.app/)
 
 
