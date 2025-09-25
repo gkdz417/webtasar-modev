@@ -12,11 +12,11 @@ Bu proje **Web Teknolojileri ve Programlama** dersi ödevi için hazırlanmışt
 - Alt kısımda copyright, ad ve öğrenci numarası
 
 
-Alternatif olarak [Netlify](https://www.netlify.com/) veya [Vercel](https://vercel.com/) kullanarak da kolayca deploy edebilirsiniz.
+
 
 
 ## Domain
 - Yayın adresinizi buraya ekleyin:
-- Canlı site: (https://tasarimdev321.netlify.app/)
+- Canlı site: [(https://tasarimdev321.netlify.app/)](https://123webodev123.netlify.app/)
 
 
